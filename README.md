@@ -13,6 +13,9 @@
   - ### [Word](https://github.com/darl0ck/Numbers-method-of-solve/raw/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%E2%84%963.docx)
   - ### [PDF](https://github.com/darl0ck/Numbers-method-of-solve/raw/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%E2%84%963.pdf)
   - ### [Прога](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B03.py)
+* ## Лаба 4
+  - ### [Word](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.docx)
+  - ### [PDF](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.pdf)
   
 - > Не тырим
 - > Не копипастим
