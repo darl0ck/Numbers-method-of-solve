@@ -17,6 +17,14 @@
   - ### [Word](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.docx)
   - ### [PDF](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.pdf)
   
+* ## Лаба 5
+  - ### [Word](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.docx)
+  - ### [PDF](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.pdf)
+  
+* ## Лаба 6
+  - ### [Word](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.docx)
+  - ### [PDF](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.pdf)
+  
 - > Не тырим
 - > Не копипастим
 - > Если брали честно признаемся 
