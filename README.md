@@ -18,12 +18,13 @@
   - ### [PDF](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.pdf)
   
 * ## Лаба 5
-  - ### [Word](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.docx)
-  - ### [PDF](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.pdf)
+  - ### [Pages](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/Lab_rabota_5_Koporushkin.pages)
+  - ### [Прога](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/Lab5.py)
+
   
 * ## Лаба 6
-  - ### [Word](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.docx)
-  - ### [PDF](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/%D0%9B%D0%B0%D0%B1%D0%B0%204.pdf)
+  - ### [PDF](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/Lb_6_Koporushkin.pdf)
+  - ### [Прога](https://github.com/darl0ck/Numbers-method-of-solve/blob/master/lab6.py)
   
 - > Не тырим
 - > Не копипастим
